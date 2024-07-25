@@ -312,9 +312,9 @@ a {
     width: 27%;
   }
 
-  .main__img-row {
+  /* .main__img-row {
     min-width: 150rem;
-  }
+  } */
 }
 
 /* Breakpoint - small desktop  - avoid over crowding*/
