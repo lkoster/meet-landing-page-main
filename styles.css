@@ -173,8 +173,7 @@ a {
   justify-content: space-between;
   align-items: center;
   margin: 6.1rem auto;
-  min-height: 400px;
-  overflow: hidden;
+  max-height: 32rem;
 }
 
 .hero__content {
@@ -182,7 +181,7 @@ a {
   justify-self: center;
   gap: 3.2rem;
   width: 54rem;
-  margin-top: 90px;
+  margin-top: 1rem;
 }
 
 .hero__content p {
@@ -196,7 +195,6 @@ a {
 
 .hero-img-right {
   margin-right: -3.2rem;
-  align-self: flex-end;
 }
 
 .hero-img-mobile {
