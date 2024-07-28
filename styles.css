@@ -172,16 +172,16 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 6.1rem auto;
+  margin: 11.7rem auto;
   max-height: 32rem;
 }
 
 .hero__content {
   text-align: center;
   justify-self: center;
+  align-self: flex-end;
   gap: 3.2rem;
   width: 54rem;
-  margin-top: 1rem;
 }
 
 .hero__content p {
@@ -195,6 +195,7 @@ a {
 
 .hero-img-right {
   margin-right: -3.2rem;
+  align-self: flex-end;
 }
 
 .hero-img-mobile {
@@ -230,7 +231,7 @@ a {
 
 .main {
   text-align: center;
-  margin-top: 6.4rem;
+  margin-top: 7.9rem;
 }
 
 .main__img-row {
